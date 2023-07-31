@@ -25,3 +25,4 @@ I'm a self taught web developer, and I also study Computer Science at CSUF. On m
 <img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/40a32a97-a7cb-479c-8be0-f8505905e839" width = "800" height = "400" />
    
   
+ 
