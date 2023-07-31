@@ -4,7 +4,7 @@
       <img src = "https://skillicons.dev/icons?i=react,js,html,css,postgres,nodejs,py,php,firebase&theme=dark"/>
 </a>
 </p>
-### I'm a ***Full Stack Engineer***
+***Full Stack Engineer***
 #### I'm a self taught learner, and also a student studying Computer Science at CSUF. On my free time I play around with different software and design stunning websites and web applications. 
 
 ##### 📍  Orange County, CA
