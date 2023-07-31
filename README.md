@@ -22,7 +22,6 @@ I'm a self taught web developer, and I also study Computer Science at CSUF. On m
 <p align = "left">
 <img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/23b791d0-8d55-4901-9baa-2f5b9953c5bb" width = "800" height = "400" />
 </p>
-<img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/40a32a97-a7cb-479c-8be0-f8505905e839" width = "800" height = "400" />
+<img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/981aeaf5-a0b0-4502-bc51-0a6d9693af72" width = "800" height = "400" />
    
-  
  
