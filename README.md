@@ -5,6 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,postgres,nodejs,py,php,firebase,)](https://skillicons.dev)
 
 #### 📍Orange County, CA
-#### 🏫California State University, Fullerton (December 2024, B.S in Computer Science)
+#### 🏫California State University, Fullerton 
+*(December 2024, B.S in Computer Science)
 
 
