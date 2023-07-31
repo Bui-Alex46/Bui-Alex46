@@ -1,4 +1,4 @@
-<p align ="center">
+<p align ="left">
 <a href = "https://skillsicons.dev">
       <img src = "https://skillicons.dev/icons?i=react,js,html,css,postgres,nodejs,py,php,firebase&theme=dark"/>
 </a>
