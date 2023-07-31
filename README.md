@@ -4,7 +4,7 @@
 ```Web developer``` 
 📍  Orange County, CA | 🏫 California State University, Fullerton (Dec. 2024) | 📧 alex46bui@gmail.com
 
-#### I'm a self taught web developer, and I also study Computer Science at CSUF. On my free time I work out and play around with different software to design stunning websites and web applications. 
+I'm a self taught web developer, and I also study Computer Science at CSUF. On my free time I work out and play around with different software to design stunning websites and web applications. 
 
 
  
