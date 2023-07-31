@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,postgres,nodejs,py,php,firebase,)](https://skillicons.dev)
 
 
-##### 📍 Orange County, CA
+##### 📍  Orange County, CA
 ##### 🏫 California State University, Fullerton (Dec. 2024)
 ##### 📧 alex46bui@gmail.com
 
