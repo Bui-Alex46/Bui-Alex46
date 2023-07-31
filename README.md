@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Alex! 
 
-# **Full Stack Engineer** ```<Web developer/>``` 
+# **Full Stack Engineer** ```< Web-Developer />``` 
 
 📍  Orange County, CA | 🏫 California State University, Fullerton (Dec. 2024) | 📧 alex46bui@gmail.com
 
