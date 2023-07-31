@@ -15,7 +15,7 @@ I am a self taught web developer, and I also study Computer Science at CSUF. On 
 </a>
 </p>
 
-## Projects:
+## Core Projects:
 * [Habit Tracker Web Application](https://habittracker-3d266.web.app/)
 #####
 #####
