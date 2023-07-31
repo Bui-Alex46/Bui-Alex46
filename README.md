@@ -20,9 +20,11 @@ I'm a self taught web developer, and I also study Computer Science at CSUF. On m
 #####
 #####
 <p align = "left">
+<img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/df623c26-c90b-46da-b5bc-f94799c5b4ec" width = "800" height = "400" />
 <img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/ec38b34a-fe08-4b9a-823f-3cff00950d41" width = "800" height = "400" />
+ <img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/981aeaf5-a0b0-4502-bc51-0a6d9693af72" width = "800" height = "400" />
 </p>
-<img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/981aeaf5-a0b0-4502-bc51-0a6d9693af72" width = "800" height = "400" />
-   
+
+
  
  
