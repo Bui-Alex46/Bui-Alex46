@@ -6,7 +6,7 @@
 
 #### I'm a self taught web developer, and I also study Computer Science at CSUF. On my free time I work out and play around with different software to design stunning websites and web applications. 
 
-
+![Alt text](image link)
  
 ## Tools:       
 <p align ="left">
