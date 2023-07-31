@@ -16,13 +16,9 @@ I am a self taught web developer, and I also study Computer Science at CSUF. On 
 </p>
 
 ## Projects:
-### Habit Tracker Web Application
+* [Habit Tracker Web Application](https://habittracker-3d266.web.app/)
 #####
 #####
-<p align = "left">
-<a href = "https://habittracker-3d266.web.app/"> Habit Tracker Web App</a>
-</p>
 
-  
  
  
