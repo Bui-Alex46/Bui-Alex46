@@ -4,7 +4,7 @@
 </a>
 </p>
 
-##### My name is Alex Bui and I am a full stack web developer. On my free time I play around with different software and craft web applications with the use of these tools/frameworks:
+##### My name is Alex Bui and I am a full stack web developer. On my free time I play around with different software and design stunning websites. #####
 
 
 
