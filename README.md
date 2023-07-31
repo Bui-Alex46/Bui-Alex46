@@ -11,7 +11,7 @@ I'm a self taught web developer, and I also study Computer Science at CSUF. On m
 ## Tools:       
 <p align ="left">
 <a href = "https://skillsicons.dev">
-      <img src = "https://skillicons.dev/icons?i=react,js,html,css,postgres,nodejs,py,php,firebase&theme=dark"/>
+      <img src = "https://skillicons.dev/icons?i=react,js,html,css,postgres,nodejs,expressjs,py,php,firebase&theme=dark"/>
 </a>
 </p>
 
