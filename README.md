@@ -2,7 +2,7 @@
 
 # **Full Stack Engineer** 
 ```Web developer/Fitness enthusiast``` 
-##### 📍  Orange County, CA           🏫 California State University, Fullerton (Dec. 2024)             📧 alex46bui@gmail.com
+##### 📍  Orange County, CA | 🏫 California State University, Fullerton (Dec. 2024) | 📧 alex46bui@gmail.com
 ##### 
 ##### 
 #### I'm a self taught web developer, and I also study Computer Science at CSUF. On my free time I play around with different software and design stunning websites and web applications. 
