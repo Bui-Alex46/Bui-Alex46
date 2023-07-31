@@ -6,7 +6,7 @@
 
 #### I'm a self taught web developer, and I also study Computer Science at CSUF. On my free time I work out and play around with different software to design stunning websites and web applications. 
 
-![Alt text](image link)
+![Alt text](/relative/path/to/Habit-Tracker.png?raw=true "Optional Title")
  
 ## Tools:       
 <p align ="left">
