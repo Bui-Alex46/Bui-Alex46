@@ -22,6 +22,6 @@
 <p align = "left">
 <img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/23b791d0-8d55-4901-9baa-2f5b9953c5bb" width = "800" height = "400" />
 </p>
- 
+<img src = "https://github.com/Bui-Alex46/Bui-Alex46/assets/78528694/40a32a97-a7cb-479c-8be0-f8505905e839" width = "800" height = "400" />
    
  
