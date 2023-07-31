@@ -6,6 +6,6 @@
 
 #### 📍Orange County, CA
 #### 🏫California State University, Fullerton 
-*(December 2024, B.S in Computer Science)
+    *(December 2024, B.S in Computer Science)
 
 
