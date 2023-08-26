@@ -19,6 +19,6 @@ I may appear as your typical tech student studying for a 4-year degree in Comput
 * [Habit Tracker Web Application](https://github.com/Bui-Alex46/Habit-Tracker)
 #####
 #####
-* [Twitter Clone](https://social-media-clone-e4f34.web.app/)
-  
+* [Twitter Clone](https://github.com/Bui-Alex46/social-media-clone)
+
  
