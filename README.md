@@ -4,7 +4,7 @@
 
 📍  Orange County, CA | 🏫 California State University, Fullerton (Dec. 2024) | 📧 alex46bui@gmail.com
 
-I may appear as your typical tech student studying for a 4-year degree in Computer Science, but more importantly, I am a full stack web developer. On my free time I like to train at the gym and play around with different software to design stunning websites and web applications. I supplement my education with challenging side projects, and my goal is to one day build a software company of my own. 
+I may appear as your typical tech student studying for a degree in Computer Science, but more importantly, I am a full stack web developer. I have dealt with many hands-on projects related to web development and utilizing tools such as **React**, **HTML**, **CSS** **Javascript**, **PostgreSQL** and much more! On my free time I like to train and maintain my fitness as well as play around with different software to design stunning web applications. I have a true passion for building and problem-solving. I supplement my education with challenging side projects, and my goal is to one day build a startup software company of my own. 
 
  
  
