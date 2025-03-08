@@ -19,13 +19,15 @@ I may appear as your typical tech student studying for a degree in Computer Scie
 * [Swipe-Rent](https://github.com/Bui-Alex46/SwipeRent)
 #####
 #####
-* [Habit Tracker Web Application](https://github.com/Bui-Alex46/Habit-Tracker)
+* [Travel-Companion-App](https://github.com/Bui-Alex46/Travel-Companion-App)
 #####
 #####
 * [Twitter Clone](https://github.com/Bui-Alex46/social-media-clone)
 #####
 #####
-* [Travel-Companion-App](https://github.com/Bui-Alex46/Travel-Companion-App)
+* [Habit Tracker Web Application](https://github.com/Bui-Alex46/Habit-Tracker)
 #####
 #####
+
+
  
