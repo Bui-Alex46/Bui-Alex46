@@ -16,6 +16,9 @@ I may appear as your typical tech student studying for a degree in Computer Scie
 </p>
 
 ## Core Projects:
+* [Swipe-Rent](https://github.com/Bui-Alex46/SwipeRent)
+#####
+#####
 * [Habit Tracker Web Application](https://github.com/Bui-Alex46/Habit-Tracker)
 #####
 #####
@@ -23,4 +26,6 @@ I may appear as your typical tech student studying for a degree in Computer Scie
 #####
 #####
 * [Travel-Companion-App](https://github.com/Bui-Alex46/Travel-Companion-App)
+#####
+#####
  
